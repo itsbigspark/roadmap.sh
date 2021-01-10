@@ -290,5 +290,47 @@
     "contributorsUrl": "/qa/contributors",
     "url": "/qa",
     "sidebar": {}
+  },
+  {
+    "seo": {
+      "title": "Data Engineer Roadmap: Learn to become a Data Engineer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern Data development. Learn to become a modern Data engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a Data engineer",
+        "Data engineer",
+        "Data skills",
+        "Data development skills",
+        "Data development skills test",
+        "Data engineer roadmap",
+        "become a Data engineer",
+        "Data engineer career path",
+        "skills for Data development",
+        "what is Data engineer",
+        "Data engineer quiz",
+        "Data engineer interview questions"
+      ]
+    },
+    "title": "Data Engineer",
+    "description": "Steps to follow in order to become a modern Data Engineer in 2021",
+    "featuredDescription": "Step by step guide to becoming a modern Data Engineer in 2021",
+    "upcoming": true,
+    "path": "/roadmaps/8-data-engineer/landscape.md",
+    "resources": "/roadmaps/8-data-engineer/resources.md",
+    "author": {
+      "name": "Chris Finlayson",
+      "url": "https://github.com/chrisfinlayson"
+    },
+    "contributorsCount": 1,
+    "contributorsUrl": "/data-engineer/contributors",
+    "url": "/data-engineer",
+    "sidebar": {
+      "About": [
+        {
+          "url": "/data-engineer/summary",
+          "title": "Summary",
+          "path": "/roadmaps/8-data-engineer/0-About/0-Summary.md"
+        }
+      ]
+    }
   }
 ]
